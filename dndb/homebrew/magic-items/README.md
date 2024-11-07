@@ -19,6 +19,7 @@ editing is across multiple page input areas.
   improvement to initiative.
 - [_Rings of Perception_](./rings-of-perception/) &mdash; set of increasing
   passive perception.
+- [_Smart Stone_](./smart-stone/) &mdash; a mock mobile phone.
 
 ## Challenges
 
