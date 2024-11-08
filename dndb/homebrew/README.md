@@ -38,3 +38,7 @@ referring to the previous 2014 version.
 | **`[sense]`** | Both | A sense for a creature (including yourself). Uses 2024 text when available. |
 | **`[skill]`** | Both | A skill for a creature (including yourself). Uses 2024 text when available. | | **`[spells]`** | 2024 | A skill from both editions of the PHB. Note the plural. |
 | `[spell]` | 2014 | A spell from the 2014 PHB or DMG. Note the singular. |
+| **`[wprop]`** | Both | A weapon property on an item. Uses 2024 text when available. |
+
+Intentionally not discussing the `[monster]` tag as there is not yet a 2025 MM
+to discuss.
