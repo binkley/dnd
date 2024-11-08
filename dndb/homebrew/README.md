@@ -35,5 +35,6 @@ referring to the previous 2014 version.
 | `[magicitem]` | 2014 | A magical item from the 2014 PHB or DMG. Note the singular. |
 | **`[rules]`** | 2024 | A rule from the 2024 PHB or DMG. Note the plural. |
 | `[rule]` | 2014 | A rule from the 2014 PHB or DMG. Note the singular. |
-| **`[spells]`** | 2024 | A spell from the 2024 PHB or DMG. Note the plural. |
+| **`[sense]`** | Both | A sense for a creature (including yourself). Uses 2024 text when available. |
+| **`[skill]`** | Both | A skill for a creature (including yourself). Uses 2024 text when available. | | **`[spells]`** | 2024 | A skill from both editions of the PHB. Note the plural. |
 | `[spell]` | 2014 | A spell from the 2014 PHB or DMG. Note the singular. |
