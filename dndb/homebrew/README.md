@@ -26,7 +26,7 @@ Also when an item is unchanged in title between editions, you may struggle
 referring to the previous 2014 version.
 
 | Tag | Edition | Meaning |
-|-----|---------|---------|
+|-----|:-------:|:--------|
 | **`[action]`** | Both | An action to take. Uses 2024 text when available. |
 | **`[condition]`** | Both | A condition on a creature (including yourself). Uses 2024 text when available. |
 | **`[items]`** | 2024 | A non-magical item from the 2024 PHB or DMG. Note the plural. |
