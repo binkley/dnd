@@ -2,17 +2,32 @@
 
 Note that markup (BBC) tags are subtley different between 2024 and 2014
 versions of the same thing.
+2024 uses _plural_ for many tags that 2014 uses _singular_ for, and this is
+apparent in rendered DnDB pages when mixing tags.
+
+Unless you intend to refer specifically to the 2014 verion of something, you
+should prefer the 2024 version in your tags.
+
 The [_How to add
 tooltips_](https://www.dndbeyond.com/forums/dungeons-dragons-discussion/homebrew-house-rules/9811-how-to-add-tooltips)
 page is outdated.
 
-- \[action\] &mdash; same for both but refers to 2024 if available
-- \[condition\] &mdash; same for both but refers to 2024 if available
-- \[items\] _vs_ \[item\] &mdash; "items" (plural) refers to 2024; "item"
-  (singular) refers to 2014
-- \[magicitems\] _vs_ \[magicitem\] &mdash; "magicitems" (plural) refers to
-  2024; "magicitem" (singular) refers to 2014
-- \[rules\] _vs_ \[rule\] &mdash; "rules" (plural) refers to 2024; "rule"
-  (singular) refers to 2014
-- \[spells\] _vs_ \[spell\] &mdash; "spells" (plural) refers to 2024; "spell"
-  (singular) refers to 2014
+In all cases, tags to 3<sup>rd</sup>-party/partner content may change without
+warning.
+An example is referring to `[spell]Gift of Alacrity[/spell]` from _Explorer's
+Guide to Wildemont_:
+This worked originally with homebrew content for pre-2024 `[spell]`, but
+produces a fatal warning on save with 2024 `[spells]`.
+
+| Tag | Edition | Meaning |
+|-----|---------|---------|
+| `[action]` | Both | An action to take. Uses 2024 text when available. |
+| `[condition]` | Both | A condition on a creature (including yourself). Uses 2024 text when available. |
+| `[item]` | 2014 | A non-magical item from the 2014 PHB or DMG. Note the singular. |
+| `[items]` | 2024 | A non-magical item from the 2024 PHB or DMG. Note the plural. |
+| `[magicitem]` | 2014 | A magical item from the 2014 PHB or DMG. Note the singular. |
+| `[magicitems]` | 2024 | An magical item from the 2024 PHB or DMG. Note the plural. |
+| `[rule]` | 2014 | A rule from the 2014 PHB or DMG. Note the singular. |
+| `[rules]` | 2024 | A rule from the 2024 PHB or DMG. Note the plural. |
+| `[spell]` | 2014 | A spell from the 2014 PHB or DMG. Note the singular. |
+| `[spells]` | 2024 | A spell from the 2024 PHB or DMG. Note the plural. |
