@@ -3,6 +3,13 @@
 align="right" width="10%" height="auto"/>
 </a>
 
-# D&amp;D and Beyond files
+# RPG files for D&amp;D and other
 
-Public files for D&amp;D and [D&amp;D Beyond](https://www.dndbeyond.com/).
+Public files for D&amp;D and [D&amp;D Beyond](https://www.dndbeyond.com/), and
+other D&amp;D or [Pathfinder 2](https://paizo.com/pathfinder), such as
+campaigns.
+
+## Table of contents
+
+- [D&amp;D Beyond homebrew](./dndb/homebrew/)
+- [Campaigns](./campaigns/)
