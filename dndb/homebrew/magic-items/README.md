@@ -16,9 +16,9 @@ editing is across multiple page input areas.
   is delicious.
 - [_Main-Gauche_](./main-gauche/) &mdash; fencing with defense.
 - [_Rings of Alacrity_](./rings-of-alacrity/) &mdash; set of increasing
-  improvement to initiative.
+  improvements to initiative.
 - [_Rings of Perception_](./rings-of-perception/) &mdash; set of increasing
-  passive perception.
+  improvements to perception.
 - [_Smart Stone_](./smart-stone/) &mdash; a mock mobile phone.
 
 ## Challenges
